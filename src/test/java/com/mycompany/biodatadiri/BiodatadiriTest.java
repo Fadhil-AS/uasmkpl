@@ -19,7 +19,7 @@ public class BiodatadiriTest {
 	
 	// Arrange
         Biodatadiri user = new Biodatadiri("Fadhil", 21, "Cianjur");
-        int votingAge = 17;
+        int votingAge = 22;// contoh gagal
     
 	// Act
 	boolean eligible = user.isEligibleToVote(votingAge);
