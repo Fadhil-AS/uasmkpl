@@ -57,6 +57,8 @@ public class Biodatadiri {
         boolean eligible = user.isEligibleToVote(votingAge);
 
         System.out.println(eligible);
+        System.out.println(eligible);
+        System.out.println(eligible);
     }
 }
 
